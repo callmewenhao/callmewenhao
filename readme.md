@@ -10,5 +10,5 @@ I have made the following:
 
 On my **[Github](https://github.com/callmewenhao)**, I stored some **code** about **AI** and **Embedded Development**
 
-I like **ML** and **DL**; meanwhile, I like embedded system programming about **MCU**
+I like **ML** and **DL**; meanwhile, I also like embedded system programming about **MCU**
 
