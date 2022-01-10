@@ -12,7 +12,7 @@
 
 ## Introduce🎈
 
-On my **[Github](https://github.com/callmewenhao)**😉, I stored some **code** about **AI**💥 and **Embedded System**🛹
+On my **Github**😉, I stored some **code** about **AI**💥 and **Embedded System**🛹
 
 I like **ML** and **DL**; I also like embedded system programming about **MCU**!
 
