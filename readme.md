@@ -1,14 +1,18 @@
-# Hi, there! 👏 
+## Hi, there! 👏 
 
-I have made the following:
+![](https://visitor-badge.glitch.me/badge?page_id=callmewenhao)
 
-- [there is my Homepage!](https://callmewenhao.github.io/)
+<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
 
-- [there is my blog!](https://callmewenhao.github.io/blog/) 
+**I have made the following:**
 
-## Introduce
+- 🎉[there is my Homepage!](https://callmewenhao.github.io/) 
 
-On my **[Github](https://github.com/callmewenhao)**, I stored some **code** about **AI** and **Embedded Development**
+- ✨[there is my blog!](https://callmewenhao.github.io/blog/) 
 
-I like **ML** and **DL**; meanwhile, I like embedded system programming about **MCU**
+## Introduce🎈
+
+On my **[Github](https://github.com/callmewenhao)**😉, I stored some **code** about **AI**💥 and **Embedded Development**🛹
+
+I like **ML** and **DL**; meanwhile, I like embedded system programming about **MCU**!
 
