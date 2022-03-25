@@ -4,7 +4,9 @@
 
 ![wenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard)
 
-<img align='right' src="images/cute1.gif" height=100>
+<img align='right' src="images/cute1.gif" height=150>
+
+
 
 On my **Github**😉, I stored some **code** about **AI**💥 and **Embedded System**🛹
 
