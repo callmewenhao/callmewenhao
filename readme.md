@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=callmewenhao)
 
-<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="150">
+<img align='right' src="images/cute1.gif" height=130>
 
 On my **Github**😉, I stored some **code** about **AI**💥 and **Embedded System**🛹
 
