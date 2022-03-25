@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=callmewenhao)
 
-![wenhao](https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![wenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard)
 
 <img align='right' src="images/cute1.gif" height=100>
 
