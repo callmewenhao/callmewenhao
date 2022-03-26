@@ -2,17 +2,16 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=callmewenhao)
 
-![wenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard)
+<div align=left>
+    <img src="https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard" height=150> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact" height=150>
+</div>
 
-<img align='right' src="images/cute1.gif" height=150>
+<p align="right"><img align='right' src="images/cute1.gif" height=140></p>
 
+On my **Github**😉, I stored some **codes** about **Deep Learning**💥 and **MCU**🛹
 
-
-On my **Github**😉, I stored some **code** about **AI**💥 and **Embedded System**🛹
-
-I like **ML** and **DL**; I also like embedded system programming about **MCU**!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am a deep learning amateur😁, and I also like embedded system programming about **MCU**!
 
 - 🔭 I’m currently working on Graduation Project!
 - 🌱 I’m currently learning Reinforcement Learning!
