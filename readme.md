@@ -3,9 +3,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=callmewenhao)
 
 <div align=left>
-    <img src="https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard" height=150> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact" height=150>
+    <img src="https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&theme=default_repocard" height=180> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact" height=130>
 </div>
+
 
 <p align="right"><img align='right' src="images/cute1.gif" height=140></p>
 
