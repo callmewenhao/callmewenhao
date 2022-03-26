@@ -2,8 +2,9 @@
 
 <div align=left>
     <img src="https://github-readme-stats.vercel.app/api?username=callmewenhao&show_icons=true&hide=prs&theme=default_repocard" height=180> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact" height=150>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewenhao&hide=javascript,html,Assembly,CSS&layout=compact" height=140>
 </div>
+
 
 
 
