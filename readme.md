@@ -6,13 +6,6 @@
 </div>
 
 
-
-
-
-
-
-<p align="right"><img align='right' src="images/cute1.gif" height=140></p>
-
 On my **Github**😉, I stored some **codes** about **Deep Learning**💥 and **MCU**🛹
 
 I am a deep learning amateur😁, and I also like embedded system programming about **MCU**!
