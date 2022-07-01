@@ -1,1 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="150">
+
+On my **Github**😉, I stored some **codes** about **Deep Learning**💥 and **MCU**🛹
+I am a deep learning amateur😁, and I also like embedded system programming about **MCU**!
+
